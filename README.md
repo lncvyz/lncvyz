@@ -1,4 +1,6 @@
-LC | nyc, 19, umass cs & ecology
+LC...
+
+AREAS: cs, data science, public interest, ecology
 
 LANGUAGES: java, python (pandas, pygame, seaborn), r, sql
 
