@@ -1,6 +1,6 @@
 LC / nyc / 19 / umass '26
 
-LANGUAGES: css, html, java, python (pandas, pygame, seaborn), sql
+LANGUAGES: java, python (pandas, pygame, seaborn), r, sql
 
 SOME EXP: javascript, c
 
