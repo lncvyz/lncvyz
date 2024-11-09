@@ -1,4 +1,4 @@
-LC / nyc / 19 / umass '26
+LC | nyc, 19, umass cs & ecology
 
 LANGUAGES: java, python (pandas, pygame, seaborn), r, sql
 
