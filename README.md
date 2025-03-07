@@ -2,11 +2,7 @@
 
 **STUDIES:** data science, statistics (decision theory, stochastics), comp sci, computing ethics & law
 
-**IS BEST WITH:** java, python (pandas, seaborn, csv), sql (postgres), typescript (node.js)
-
-**IS LEARNING:** cv2, ffmpeg
-
-**WANTS TO LEARN:** react.js, c++, ruby on rails
+**KNOWS:** java, python (pandas, seaborn, csv), sql (postgres), typescript (node.js)
 
 **ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), legos, sharks
 
