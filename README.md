@@ -1,11 +1,13 @@
-LC...
+<h1>LC...</h1>
 
-AREAS: data science, statistics (decision theory, stochastics), computer science
+**STUDIES:** data science, statistics (decision theory, stochastics), comp sci, computing ethics & law
 
-BEST WITH: java, python (pandas, seaborn, csv), sql (postgres)
+**IS BEST WITH:** java, python (pandas, seaborn, csv), sql (postgres), typescript (node.js)
 
-OK AT: typescript, javascript (node.js)
+**IS LEARNING:** cv2, ffmpeg
 
-LEARNING: ffmpeg
+**WANTS TO LEARN:** react.js, c++, ruby on rails
 
-WANT TO LEARN: react.js, c++, ruby on rails
+**ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), legos, sharks
+
+**HATES:** compilation errors, the concept of the literary canon
