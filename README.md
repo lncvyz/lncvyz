@@ -10,4 +10,4 @@
 
 **ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), legos, sharks
 
-**HATES:** compilation errors, the concept of the literary canon
+**DOES NOT LIKE:** compilation errors, the concept of the literary canon
