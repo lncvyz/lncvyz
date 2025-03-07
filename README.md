@@ -1,11 +1,11 @@
 LC...
 
-AREAS: cs, data science, public interest, ecology
+AREAS: data science, statistics (decision theory, stochastics), computer science
 
-MOST EXP: java, python (discord.py, pandas, pygame, seaborn), r, sql
+BEST WITH: java, python (pandas, seaborn, csv), sql (postgres)
 
-SOME EXP: javascript, c
+OK AT: typescript, javascript (node.js)
 
-WORKING ON: c++, node.js, react.js
+LEARNING: ffmpeg
 
-WANT TO LEARN: bash, go, php, ruby on rails, rust, swift
+WANT TO LEARN: react.js, c++, ruby on rails
