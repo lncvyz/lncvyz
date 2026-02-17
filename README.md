@@ -1,9 +1,9 @@
 <h1>LC...</h1>
 
-**STUDIES:** computer/data science, statistics (decision theory, stochastics), computing ethics & law, evolutionary biology & ecology
+**STUDIES:** computer/data science, statistics (decision theory, stochastics), computing ethics & law, biology & ecology
 
-**KNOWS:** java, python (pandas, seaborn, csv), sql (postgres), typescript & javascript (node.js)
+**KNOWS:** python (subprocess, pandas, seaborn, opencv), sql (postgres), ts/js (node.js), java
 
-**ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), legos, sharks
+**ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), creatures of the sea
 
 **DOES NOT LIKE:** compilation errors, the concept of the literary canon
