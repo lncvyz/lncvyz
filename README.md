@@ -1,9 +1,7 @@
-<h1>LC...</h1>
+<h1>LNCVYZ...</h1>
 
-**STUDIES:** computer/data science, statistics (decision theory, stochastics), computing ethics & law, biology & ecology
+**STUDIES:** computer/data science, statistics, computing law & policy, biology & ecology
 
-**KNOWS:** python (subprocess, pandas, seaborn, opencv), sql (postgres), ts/js (node.js), java
+**KNOWS:** python (subprocess, pandas, seaborn, opencv), sql (postgres), ts/js (node.js), java, basic cmd/bash
 
-**ALSO LIKES:** literature (poetry, lit as history, comp lit), music (piano, gui, bass gui, prod), creatures of the sea
-
-**DOES NOT LIKE:** compilation errors, the concept of the literary canon
+**IS LEARNING:** more cmd/bash, linux, c, rust
